@@ -1,2 +1,3 @@
-# example-flask-dash-multipage
-an example repository for a flask and dash based multipage app.
+# dash-spa-example
+
+This repository holds an example dash-based web single-page application.
